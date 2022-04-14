@@ -1,6 +1,6 @@
 import { Button } from 'mystorybook';
-import 'mystorybook/dist/index.css';
 
+import 'mystorybook/dist/index.css';
 import logo from './logo.svg';
 import './App.css';
 
